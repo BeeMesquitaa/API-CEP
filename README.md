@@ -8,6 +8,10 @@ Aplicação de API desenvolvida com PHP para uso em um projeto externo.
 
 ## Layout da API:
 
+![image](https://github.com/BeeMesquitaa/API-CEP/assets/121141327/c8343293-c3b0-4bd6-a9ac-849536fcb000)
+
+![image](https://github.com/BeeMesquitaa/API-CEP/assets/121141327/fe777c53-8793-4eda-85e8-2950c070ae8e)
+
 
 # 🖱️ Tecnologias Utilizadas
 - PHP
