@@ -19,4 +19,5 @@ Aplicação de API desenvolvida com PHP para uso em um projeto externo.
 
 # ✏️ Autores
 
+- Bernardo Luiz Werner Mesquita.
 
